@@ -11,3 +11,5 @@ Designed as an end-to-end copilot for Relationship Managers and Independent Asse
 - Live Quantitative Backtest & Stress-Test: Automatically pulls that allocation into a live market engine (^SSMI / SPY) to calculate annualized return, volatility, Sharpe ratio, and max drawdown—paired with an AI macro stress-test.
 
 Building this reinforced a clear conviction: the biggest competitive advantage in financial services comes from professionals who can translate business needs into practical AI workflows.
+
+run: streamlit run app.py
