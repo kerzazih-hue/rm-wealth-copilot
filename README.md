@@ -12,4 +12,7 @@ Designed as an end-to-end copilot for Relationship Managers and Independent Asse
 
 Building this reinforced a clear conviction: the biggest competitive advantage in financial services comes from professionals who can translate business needs into practical AI workflows.
 
-run: streamlit run app.py
+run: streamlit run app.py --server.port 8508
+
+Link AUM with Asset Allocation or make new investment proposal
+Available cash: check the percentage, suggest strategies - wether invest cash if will to (earn Net New Money (share of wallet), or take profits on risky positions. SNB 0% and below, good for banking sector.
