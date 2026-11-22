@@ -14,5 +14,5 @@ Building this reinforced a clear conviction: the biggest competitive advantage i
 
 run: streamlit run app.py --server.port 8508
 
-Link AUM with Asset Allocation or make new investment proposal
+Link AUM with Asset Allocation or make new investment proposal.
 Available cash: check the percentage, suggest strategies - wether invest cash if will to (earn Net New Money (share of wallet), or take profits on risky positions. SNB 0% and below, good for banking sector.
